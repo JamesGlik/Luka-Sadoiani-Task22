@@ -6,12 +6,10 @@ import Image2 from "../../../assets/illustration_2-01.svg";
 const Fylo = () => {
   return (
     <div className="container mx-auto px-4 w-full h-[800px] relative">
-      {/* Background Image */}
       <div className="absolute inset-0">
         <img src={Background} alt="Background" className="w-full h-[837px] object-cover" />
       </div>
 
-      {/* Content Section */}
       <div className="relative z-10 max-w-[1440px] w-full h-auto px-[80px] pt-[178px] text-[#07043B]">
         <h1 className="text-[40px] font-[700] pb-[15px]">
           Stay productive, wherever you are
@@ -32,7 +30,6 @@ const Fylo = () => {
         </div>
         <div className="w-[166px] border-b-[#3DA08F] border-b-[1px] mt-[4px]"></div>
 
-        {/* New Image Below the Border */}
         <div className="mt-[45px]">
           <img src={Social} alt="Social" className="w-auto h-auto ml-[-20px]" />
         </div>
