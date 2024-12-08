@@ -1,6 +1,6 @@
 const SignUp = () => {
   return (
-    <div className="container mx-auto px-4 w-full h-[370px] bg-[#575988]">
+    <div className="container mx-auto px-4 w-full h-[370px] bg-[#575988] font-raleway">
       <div className="max-w-[1440px] w-full pl-[80px] pr-[80px] pt-[140px] relative flex justify-between">
         <div>
           <h1 className="text-[#FFFFFF] text-[32px] font-[700] mb-[20px]">

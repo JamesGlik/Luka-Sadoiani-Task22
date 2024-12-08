@@ -9,15 +9,15 @@ const NavBar = () => {
         </div>
         <div className="flex justify-between gap-14">
           <div
-            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center">
+            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center font-raleway">
             Features
           </div>
           <div
-            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center">
+            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center font-raleway">
             Team
           </div>
           <div
-            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center">
+            className="text-[#07043B] text-[16px] font-[400] cursor-pointer flex items-center font-raleway">
             Sign In
           </div>
         </div>

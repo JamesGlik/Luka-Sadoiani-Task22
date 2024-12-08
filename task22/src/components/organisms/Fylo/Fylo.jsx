@@ -10,7 +10,7 @@ const Fylo = () => {
         <img src={Background} alt="Background" className="w-full h-[837px] object-cover" />
       </div>
 
-      <div className="relative z-10 max-w-[1440px] w-full h-auto px-[80px] pt-[178px] text-[#07043B]">
+      <div className="relative z-10 max-w-[1440px] w-full h-auto px-[80px] pt-[178px] text-[#07043B] font-raleway">
         <h1 className="text-[40px] font-[700] pb-[15px]">
           Stay productive, wherever you are
         </h1>
@@ -23,7 +23,7 @@ const Fylo = () => {
           live collaboration. No email attachments required!
         </p>
         <div className="flex items-center mt-[15px]">
-          <h3 className="text-[#3DA08F] text-[16px] font-[400] cursor-pointer">
+          <h3 className="text-[#3DA08F] hover:text-[#71DFCC] text-[16px] font-[400] cursor-pointer">
             See how Fylo works
           </h3>
           <img src={Arrow} alt="Arrow" className="ml-2" />
