@@ -2,7 +2,7 @@ import Image1 from "../../../assets/illustration_1-01.svg";
 
 const GetStarted = () => {
   return (
-    <div className="container mx-auto px-4 w-full h-[800px] font-raleway">
+    <div className="container mx-auto px-4 w-full h-[700px] font-raleway">
       <div className="max-w-[1440px] w-[100%] h-[80px] pl-[80px] pr-[80px] pt-[163px] relative">
         <h1 className="text-[#07043B] text-[40px] font-[700] pb-[15px]">
           All your files in one secure
